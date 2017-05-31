@@ -1,0 +1,68 @@
+@import 'https://fonts.googleapis.com/css?family=Raleway:100,200,300,400';
+
+html {
+	position: relative;
+	min-height: 100%;
+}
+
+body {
+	font-family: Raleway;
+	text-shadow: 1px 1px 3px black;
+	color: white;
+	background-color: #0C2340;
+	margin-bottom: 100px;
+	background-image: url('../images/monogram/SVG/ND_monogram_gold_metallic.svg');
+	background-position: right top;
+	background-repeat: no-repeat;
+	background-size: contain;
+	background-attachment: fixed;
+}
+
+#sitename {
+	margin-top: 1rem;
+	/*font-weight: 200;*/
+}
+
+nav hr {
+	border-color: white;
+	border-width: 2px;
+}
+
+nav a {
+	color: white;
+	font-weight: bold;
+}
+
+.active {
+	color: #C99700;
+}
+
+h1 {
+	font-weight: 100;
+}
+
+.title {
+	font-size: 600%;
+	font-weight: 200;
+	margin-top:5rem;
+}
+
+main {
+	padding-bottom: 2rem;
+}
+
+footer {
+	font-size: small;
+	text-align: center;
+	position: absolute;
+	bottom: 0;
+	padding-bottom: 15px;
+	padding-top: 5px;
+	left: 50%;
+	right: -50%;
+	transform: translate(-50%,0);
+}
+
+a {
+	text-shadow: none;
+}
