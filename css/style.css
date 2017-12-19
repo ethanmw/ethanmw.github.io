@@ -11,7 +11,7 @@ body {
 	color: white;
 	background-color: #0C2340;
 	margin-bottom: 100px;
-	background-image: url('../images/monogram/SVG/ND_monogram_gold_metallic.svg');
+	background-image: url('/images/monogram/SVG/ND_monogram_gold_metallic.svg');
 	background-position: right center;
 	background-repeat: no-repeat;
 	background-size: contain;
