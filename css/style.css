@@ -43,9 +43,15 @@ h1 {
 }
 
 .title {
-	font-size: 580%;
+	font-size: 5rem;
 	font-weight: 200;
 	margin-top:3rem;
+	word-break: break-word;
+
+-webkit-hyphens: auto;
+   -moz-hyphens: auto;
+    -ms-hyphens: auto;
+        hyphens: auto;
 }
 
 main {
