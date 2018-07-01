@@ -58,6 +58,13 @@ h2 {
         hyphens: auto;
 }
 
+#portrait {
+	max-height: 100%;
+	width: auto;
+	padding: 0;
+	box-shadow: 5px 5px 5px 0px rgba(0,0,0,.5);
+}
+
 main {
 	padding-bottom: 2rem;
 }
