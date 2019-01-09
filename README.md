@@ -4,6 +4,6 @@ Website
 
 **Email:** ewilli23@nd.edu
 
-**URL:** TBD
+**URL:** ethanwilliams.me
 
 This repository houses my personal website.
